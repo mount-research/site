@@ -1,0 +1,14 @@
+
+body {
+    background: #d2d0b3;
+}
+
+.header {
+    border-top: solid 1px #000000;
+    border-bottom: dashed 1px #000000;
+}
+
+.main-logo {
+    max-width: 150px;
+    vertical-align: middle;
+}
